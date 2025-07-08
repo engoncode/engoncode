@@ -4,7 +4,7 @@
 
 I'm a passionate **Software Engineer** with a strong focus on:
 
-- 🛠️ **Backend Development** using **Laravel**
+- 🛠️ **Backend Development** using **Laravel** , **NextJS** , **FastApi**
 - 📱 **Mobile App Development** with **React Native**
 - 🤖 **AI Integration** (LLMs for NLP, keyword extraction, and sentiment analysis)
 - 📊 **Data-Driven Systems**: SNA, TF-IDF, LDA
